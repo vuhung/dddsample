@@ -1,2 +1,3 @@
 # dddsample
-Let's learn DDD
+Let's learn DDD using Java
+
